@@ -1,0 +1,39 @@
+c:\users\равил\documents\visual studio 2012\Projects\shooter\shooter\bin\Debug\shooter.exe.config
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\bin\Debug\shooter.exe
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\bin\Debug\shooter.pdb
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\obj\Debug\shooter.csprojResolveAssemblyReference.cache
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\obj\Debug\shooter.Properties.Resources.resources
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\obj\Debug\shooter.csproj.GenerateResource.Cache
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\obj\Debug\shooter.exe
+C:\Users\Равил\documents\visual studio 2012\Projects\shooter\shooter\obj\Debug\shooter.pdb
+C:\Users\707-9\Documents\915б\shooter\shooter\bin\Debug\shooter.exe.config
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\shooter.exe
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\shooter.pdb
+C:\Users\707-9\Documents\915б\shooter\shooter\bin\Debug\shooter.exe
+C:\Users\707-9\Documents\915б\shooter\shooter\bin\Debug\shooter.pdb
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\shooter.Properties.Resources.resources
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\GenerateResource.write.1.tlog
+H:\shooter\shooter\bin\Debug\shooter.exe.config
+H:\shooter\shooter\obj\Debug\shooter.exe
+H:\shooter\shooter\obj\Debug\shooter.pdb
+H:\shooter\shooter\bin\Debug\shooter.exe
+H:\shooter\shooter\bin\Debug\shooter.pdb
+H:\shooter\shooter\obj\Debug\shooter.csprojResolveAssemblyReference.cache
+H:\shooter\shooter\obj\Debug\shooter.Form1.resources
+H:\shooter\shooter\obj\Debug\shooter.Properties.Resources.resources
+H:\shooter\shooter\obj\Debug\shooter.csproj.GenerateResource.Cache
+C:\Users\707-9\Documents\915б\shooter\shooter\obj\Debug\shooter.shooter.resources
+I:\915б\shooter\shooter\bin\Debug\shooter.exe.config
+I:\915б\shooter\shooter\obj\Debug\shooter.exe
+I:\915б\shooter\shooter\obj\Debug\shooter.pdb
+I:\915б\shooter\shooter\bin\Debug\shooter.exe
+I:\915б\shooter\shooter\bin\Debug\shooter.pdb
+I:\915б\shooter\shooter\obj\Debug\shooter.shooter.resources
+I:\915б\shooter\shooter\obj\Debug\shooter.Properties.Resources.resources
+I:\915б\shooter\shooter\obj\Debug\shooter.csproj.GenerateResource.Cache
+C:\Users\Равил\Documents\Visual Studio 2012\Projects\shooter\shooter\obj\Debug\shooter.shooter.resources
+C:\Users\Равиль\Documents\Visual Studio 2012\Projects\shooter\shooter\bin\Debug\shooter.exe.config
+C:\Users\Равиль\Documents\Visual Studio 2012\Projects\shooter\shooter\obj\Debug\shooter.exe
+C:\Users\Равиль\Documents\Visual Studio 2012\Projects\shooter\shooter\obj\Debug\shooter.pdb
